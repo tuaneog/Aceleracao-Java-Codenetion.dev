@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-06-21T03:18:29" hostname="LAPTOP-NR8H2MDB" time="0.035">
+  <properties/>
+  <testcase name="salarioBruto50000Liquido" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.019"/>
+  <testcase name="salarioBruto4000e1Liquido" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto1500Liquido1380" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <testcase name="salarioBruto1031e99Liquido0" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <testcase name="salarioBruto6750Liquido5106" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto1000Liquido0" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto6700Liquido" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto6000Liquido4940" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto1032Liquido949" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <testcase name="salarioBruto4000Liquido" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.001"/>
+  <testcase name="salarioBruto3290Liquido2994" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <testcase name="salarioBruto1500e1Liquido1365" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <testcase name="salarioBrutoNegativoLiquido0" classname="br.com.codenation.calculadora.CalculadoraSalarioSubmitTest" time="0.0"/>
+  <system-out><![CDATA[5500.0
+6675.0
+440.0011
+267.0006675
+120.0
+0.0
+742.5
+901.125
+737.0
+447.22499999999997
+660.0
+400.5
+296.09999999999997
+0.0
+296.09999999999997
+0.0
+135.0009
+0.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
