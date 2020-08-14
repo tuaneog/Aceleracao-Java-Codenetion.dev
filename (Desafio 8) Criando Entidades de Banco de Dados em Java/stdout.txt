@@ -1,0 +1,350 @@
+Found "C:\Users\tuane\codenation\java-9\.mvn\wrapper\maven-wrapper.jar"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 9 source files to C:\Users\tuane\codenation\java-9\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\tuane\codenation\java-9\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to C:\Users\tuane\codenation\java-9\target\test-classes
+[INFO] /C:/Users/tuane/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: C:\Users\tuane\codenation\java-9\src\test\java\com\challenge\suite\ClassTest.java uses unchecked or unsafe operations.
+[INFO] /C:/Users/tuane/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+01:12:10.538 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.632 [main] INFO org.reflections.Reflections - Reflections took 87 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.751 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.764 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.769 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.789 [main] INFO org.reflections.Reflections - Reflections took 20 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.797 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.810 [main] INFO org.reflections.Reflections - Reflections took 13 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.816 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.831 [main] INFO org.reflections.Reflections - Reflections took 14 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.842 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.857 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.865 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.877 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.880 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.898 [main] INFO org.reflections.Reflections - Reflections took 18 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.900 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.912 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.914 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.921 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.929 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.940 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.946 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.952 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.956 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.967 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.973 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:10.985 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:10.989 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.005 [main] INFO org.reflections.Reflections - Reflections took 14 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.013 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.030 [main] INFO org.reflections.Reflections - Reflections took 17 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.047 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.210 [main] INFO org.reflections.Reflections - Reflections took 162 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.220 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.274 [main] INFO org.reflections.Reflections - Reflections took 54 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.277 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.285 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.295 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.305 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.309 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.319 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.326 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.335 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.344 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.353 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.355 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.368 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.372 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.383 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.386 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.397 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.399 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.406 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.411 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.426 [main] INFO org.reflections.Reflections - Reflections took 14 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.431 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.462 [main] INFO org.reflections.Reflections - Reflections took 30 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.465 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.478 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.481 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.489 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.494 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.503 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.506 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.515 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.519 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.529 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.531 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.540 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.544 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.552 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.555 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.566 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.568 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.577 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.580 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.586 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.588 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.599 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.603 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.614 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.616 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.629 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.631 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.641 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.644 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.650 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.652 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.666 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.670 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.684 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.689 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.698 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.701 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.711 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.712 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.722 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.726 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.734 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.736 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.748 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.751 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.779 [main] INFO org.reflections.Reflections - Reflections took 28 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.781 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.789 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.791 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.798 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.800 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.807 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.809 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.818 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.819 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.830 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.832 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.840 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.844 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.851 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.853 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.861 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.862 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.868 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.870 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.882 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.887 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.895 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.898 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.909 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.914 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.925 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.927 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.937 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.939 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.946 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.949 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.955 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.957 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.965 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.968 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.978 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.981 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:11.989 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:11.992 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.001 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.005 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.019 [main] INFO org.reflections.Reflections - Reflections took 13 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.021 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.030 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.032 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.042 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.046 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.060 [main] INFO org.reflections.Reflections - Reflections took 13 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.063 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.072 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.083 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.094 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.097 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.104 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.106 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.115 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.119 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.131 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.135 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.159 [main] INFO org.reflections.Reflections - Reflections took 23 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.162 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.176 [main] INFO org.reflections.Reflections - Reflections took 13 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.178 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.188 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.191 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.200 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.205 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.216 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.218 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.230 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.232 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.252 [main] INFO org.reflections.Reflections - Reflections took 16 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.255 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.268 [main] INFO org.reflections.Reflections - Reflections took 13 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.270 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.282 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.284 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.299 [main] INFO org.reflections.Reflections - Reflections took 15 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.301 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.337 [main] INFO org.reflections.Reflections - Reflections took 36 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.339 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.355 [main] INFO org.reflections.Reflections - Reflections took 16 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.364 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.379 [main] INFO org.reflections.Reflections - Reflections took 15 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.382 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.424 [main] INFO org.reflections.Reflections - Reflections took 41 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.427 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.460 [main] INFO org.reflections.Reflections - Reflections took 33 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.464 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.476 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.479 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.526 [main] INFO org.reflections.Reflections - Reflections took 46 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.528 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.545 [main] INFO org.reflections.Reflections - Reflections took 15 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.546 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.562 [main] INFO org.reflections.Reflections - Reflections took 16 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.563 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.577 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 4 keys and 16 values 
+01:12:12.578 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/tuane/codenation/java-9/target/classes/
+01:12:12.595 [main] INFO org.reflections.Reflections - Reflections took 17 ms to scan 1 urls, producing 4 keys and 16 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.476 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  14.247 s
+[INFO] Finished at: 2020-08-06T01:12:13-03:00
+[INFO] ------------------------------------------------------------------------
